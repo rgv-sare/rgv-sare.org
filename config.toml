@@ -2,3 +2,18 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'UTRGV Nasaminds'
 theme = 'ananke'
+
+[params]
+    site_logo = "/images/logo/logo64.png"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/utrgvnasaminds/"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@utrgvnasaminds9740"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/utrgv-nasaminds"
