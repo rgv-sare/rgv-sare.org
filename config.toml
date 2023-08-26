@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://rgv-sare.org'
 languageCode = 'en-us'
-title = 'UTRGV Nasaminds'
+title = 'UTRGV SARE'
 theme = 'ananke'
 
 [params]
